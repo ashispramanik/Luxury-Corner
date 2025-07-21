@@ -156,15 +156,10 @@ Required environment variables for production:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## 📞 Contact
 
-Project Link: [https://github.com/yourusername/luxury-corner](https://github.com/yourusername/luxury-corner)
-
-Email: contact@luxury-corner.com
+Email: ashispramanik2002@gmail.com 
 
 ## 🙏 Acknowledgments
 
